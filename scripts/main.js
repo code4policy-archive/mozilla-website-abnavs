@@ -11,3 +11,10 @@ myHeading.textContent = 'Hello world!';
  
  // Assign the function to the onclick event on that element
  foxImage.onclick = sayOuch;
+
+ function tend() {
+        document.getElementById('my').style.visibility='visible';
+      }
+      function tn() {
+        document.getElementById('my').style.visibility='hidden';
+      }
